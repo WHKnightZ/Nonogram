@@ -7,3 +7,7 @@ The clues are the numbers at the top of columns and left of rows. Each number is
 Use mouse to choose blocks
 
 Youtube: https://www.youtube.com/watch?v=H6C-pcw1tZE
+
+Note:
+
+First setup graphics.h
